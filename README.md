@@ -9,5 +9,4 @@ Mini sistema bancário desenvolvido via Python
 - Cartão de Crédito
 - Agências
 
-Testado e Revisado.
-Projeto Fechado.
+Para aplicativos e sistemas desktop.
