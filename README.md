@@ -11,4 +11,11 @@ utilizando princípios de orientação a objetos.
 - Cartão de Crédito
 - Agências
 
+⚙️ Funcionalidades
+- Criar conta
+- Depositar valor
+- Sacar valor
+- Transferir entre contas
+- Validar saldo
+
 Para aplicativos e sistemas desktop.
