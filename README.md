@@ -18,4 +18,10 @@ utilizando princípios de orientação a objetos.
 - Transferir entre contas
 - Validar saldo
 
+🧠 Conceitos Técnicos
+- Orientação a Objetos
+- Separação de responsabilidades
+- Validação de regras de negócio
+- Tratamento de erros
+
 Para aplicativos e sistemas desktop.
