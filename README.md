@@ -4,6 +4,8 @@
 
 
 Sistema bancário desenvolvido via Python
+Sistema desenvolvido para simular operações bancárias
+utilizando princípios de orientação a objetos.
 
 - ContaCorrente
 - Cartão de Crédito
